@@ -1,0 +1,1 @@
+This is Components search application. Its API has been taken from https://robohash.org/ This app is made through React.JS The search box helps in finding out the robo card one wants search. It demonstrates the application of components through React.JS 
