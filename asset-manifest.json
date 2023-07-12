@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RobertLand/static/css/main.4943a5d9.chunk.css",
+    "main.js": "/RobertLand/static/js/main.35705df5.chunk.js",
+    "main.js.map": "/RobertLand/static/js/main.35705df5.chunk.js.map",
+    "runtime-main.js": "/RobertLand/static/js/runtime-main.1021a443.js",
+    "runtime-main.js.map": "/RobertLand/static/js/runtime-main.1021a443.js.map",
+    "static/css/2.31461e4f.chunk.css": "/RobertLand/static/css/2.31461e4f.chunk.css",
+    "static/js/2.d777764e.chunk.js": "/RobertLand/static/js/2.d777764e.chunk.js",
+    "static/js/2.d777764e.chunk.js.map": "/RobertLand/static/js/2.d777764e.chunk.js.map",
+    "static/js/3.953a85ae.chunk.js": "/RobertLand/static/js/3.953a85ae.chunk.js",
+    "static/js/3.953a85ae.chunk.js.map": "/RobertLand/static/js/3.953a85ae.chunk.js.map",
+    "index.html": "/RobertLand/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/RobertLand/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4943a5d9.chunk.css.map": "/RobertLand/static/css/main.4943a5d9.chunk.css.map",
+    "static/js/2.d777764e.chunk.js.LICENSE.txt": "/RobertLand/static/js/2.d777764e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RobertLand/static/media/Brightier-mLYy2.7a882e14.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1021a443.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.d777764e.chunk.js",
+    "static/css/main.4943a5d9.chunk.css",
+    "static/js/main.35705df5.chunk.js"
+  ]
+}
